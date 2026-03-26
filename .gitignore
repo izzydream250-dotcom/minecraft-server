@@ -1,0 +1,16 @@
+# Maven
+/.mvn/
+/target/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.class
+
+# IDE files
+.idea/
+*.iml
+.DS_Store
+*.log
