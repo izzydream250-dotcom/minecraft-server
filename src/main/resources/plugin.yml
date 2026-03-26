@@ -1,0 +1,1 @@
+name: MyPlugin\nversion: 1.0\nmain: com.example.MyPlugin\ncommands:\n  examplecommand:\n    description: An example command\n    usage: /examplecommand
